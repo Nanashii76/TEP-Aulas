@@ -1,0 +1,1 @@
+Esse repositório consta com as resoluções das listas de TEP (Unb 1.2023) incluíndo a preparatória
